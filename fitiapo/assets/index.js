@@ -1,1 +1,0 @@
-document.getElementById('root').innerText = 'Trainingsplan App bereit – funktioniert!';
